@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kevin Nguyen
+- 👀 I’m interested in coding, learn new things
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on any type of project that involve programing
+- 📫 How to reach me: khoa01004@gmail.com
