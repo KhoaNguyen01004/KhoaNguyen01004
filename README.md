@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin Nguyen
 - 👀 I’m interested in coding, learn new things
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - :octocat: I’m looking to collaborate on any type of project that involve programing (preferred in Java)
 - :bellhop_bell: How to reach me: 
   + Gmail:e-mail:: khoa01004@gmail.com
